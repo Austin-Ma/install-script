@@ -1,7 +1,6 @@
 INSTALL
 trash (moves files to trashcan via CLI)
 mas (mac app store CLI)
-
 LEARN MORE
 mackup (backup app settings in a safe directory, sync settings between workstation )
 
